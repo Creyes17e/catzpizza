@@ -9,7 +9,7 @@ export const productData = [
     name: "The Felix",
     type: "Supreme Pizza",
     desc:
-      "Marinara, Mozarella, Italian Sausage, Basil, Onions, Bell Peppers, Roma Tomatoes, & Olives",
+      "Marinara, Mozarella, Pepperoni, Italian Sausage, Basil, Mushrooms, Onions, Bell Peppers, & Olives",
     price: "$19.99",
     button: "Add to Cart",
   },
