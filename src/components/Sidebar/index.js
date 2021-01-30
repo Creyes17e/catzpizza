@@ -21,7 +21,7 @@ const Sidebar = ({ isOpen, toggle }) => {
         <SidebarLink to="/">Full Menu</SidebarLink>
       </SidebarMenu>
       <SideBtnWrap>
-        <SidebarRoute>Order Now!</SidebarRoute>
+        <SidebarRoute>Order Meow!</SidebarRoute>
       </SideBtnWrap>
     </SidebarContainer>
   );
