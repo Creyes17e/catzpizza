@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/catzpizza/static/js/main.e603d807.chunk.js",
+    "main.js.map": "/catzpizza/static/js/main.e603d807.chunk.js.map",
+    "runtime-main.js": "/catzpizza/static/js/runtime-main.b3f4545a.js",
+    "runtime-main.js.map": "/catzpizza/static/js/runtime-main.b3f4545a.js.map",
+    "static/js/2.a62c1727.chunk.js": "/catzpizza/static/js/2.a62c1727.chunk.js",
+    "static/js/2.a62c1727.chunk.js.map": "/catzpizza/static/js/2.a62c1727.chunk.js.map",
+    "index.html": "/catzpizza/index.html",
+    "precache-manifest.57d96e136e4483eb44c8aa711b8524a3.js": "/catzpizza/precache-manifest.57d96e136e4483eb44c8aa711b8524a3.js",
+    "service-worker.js": "/catzpizza/service-worker.js",
+    "static/js/2.a62c1727.chunk.js.LICENSE.txt": "/catzpizza/static/js/2.a62c1727.chunk.js.LICENSE.txt",
+    "static/media/featured3.jpg": "/catzpizza/static/media/featured3.665dfac5.jpg",
+    "static/media/pizza-3.jpg": "/catzpizza/static/media/pizza-3.ccad5f01.jpg",
+    "static/media/product-1.jpg": "/catzpizza/static/media/product-1.11ddeb62.jpg",
+    "static/media/product-2.jpg": "/catzpizza/static/media/product-2.c61c9f8c.jpg",
+    "static/media/product-3.jpg": "/catzpizza/static/media/product-3.40b29cf0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f4545a.js",
+    "static/js/2.a62c1727.chunk.js",
+    "static/js/main.e603d807.chunk.js"
+  ]
+}
